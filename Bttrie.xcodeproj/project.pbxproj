@@ -52,8 +52,9 @@
 		5E7B61AA2BD9EB8C00B8EB11 /* Bttrie */ = {
 			isa = PBXGroup;
 			children = (
-				5E7B61AB2BD9EB8C00B8EB11 /* BttrieApp.swift */,
 				5E7B61AD2BD9EB8C00B8EB11 /* ContentView.swift */,
+				5E7B61BA2BD9EBBA00B8EB11 /* Views */,
+				5E7B61AB2BD9EB8C00B8EB11 /* BttrieApp.swift */,
 				5E7B61AF2BD9EB8E00B8EB11 /* Assets.xcassets */,
 				5E7B61B42BD9EB8E00B8EB11 /* Bttrie.entitlements */,
 				5E7B61B12BD9EB8E00B8EB11 /* Preview Content */,
@@ -67,6 +68,13 @@
 				5E7B61B22BD9EB8E00B8EB11 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5E7B61BA2BD9EBBA00B8EB11 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
